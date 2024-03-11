@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "aplikacjaMDIBadowski4c/1.0.0": {
+        "runtime": {
+          "aplikacjaMDIBadowski4c.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aplikacjaMDIBadowski4c/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
